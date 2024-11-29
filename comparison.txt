@@ -1,1 +1,20 @@
+Changes Between Initial Commit and Feature Commit:
 
+Added Navigation Bar with Links:
+<a href="#ProjectSCM">ProjectSCM</a>
+<a href="#Requirement">Requirement</a>
+<a href="#UseCase">UseCase</a>
+
+Added Three New Sections:
+ProjectSCM: Introduced a section to describe the project.
+Requirement: Added details about project requirements.
+UseCase: Added a section for use case descriptions.
+Changes Between Bug Commit and Bug Fix:
+
+Fixed missing closing tag for <title> element.
+Fixed missing closing tag for <p> (paragraph) element.
+Fixed missing closing tag for <h1> (heading) element.
+
+git add comparison.txt
+git commit -m "Added comparison summary"
+git push origin main
